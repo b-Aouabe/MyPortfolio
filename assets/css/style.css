@@ -160,6 +160,11 @@ img {
   color: yellow;
 }
 
+.layer a {
+  color: rgb(80, 80, 218);
+  text-decoration: underline;
+}
+
 .l-header {
   width: 100%;
   position: fixed;
