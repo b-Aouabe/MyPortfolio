@@ -132,7 +132,7 @@ img {
 .skills__container img {
   height: 150px;
   width: 150px;
-  object-fit: cover;
+  object-fit: contain;
 } 
 
 .work__container{
